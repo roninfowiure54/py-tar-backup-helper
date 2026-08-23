@@ -7,3 +7,6 @@ Run: `python src/backup.py`
 
 ---
 *Released under the MIT License by Sassywow.*
+
+---
+*Released under the MIT License by AlexanderAM1231.*
