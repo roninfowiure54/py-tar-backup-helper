@@ -13,3 +13,6 @@ Run: `python src/backup.py`
 
 ---
 *Released under the MIT License by alibasit-lgtm4.*
+
+---
+*Released under the MIT License by jocck96.*
