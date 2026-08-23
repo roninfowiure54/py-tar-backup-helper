@@ -16,3 +16,6 @@ Run: `python src/backup.py`
 
 ---
 *Released under the MIT License by jocck96.*
+
+---
+*Released under the MIT License by roninfowiure54.*
